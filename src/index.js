@@ -14,7 +14,7 @@ store.dispatch(bugAdded("Bug occured in Network call"));
 store.dispatch(bugAdded("Bug occured while Signup"));
 
 store.dispatch(bugResolving(1, "resolving in process by devDiesel"));
-store.dispatch(bugResolved(1));
+store.dispatch(bugResolved(1));np
 
 unsubscribe();
 

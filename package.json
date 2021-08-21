@@ -10,6 +10,7 @@
   "author": "Karan Munjani",
   "license": "ISC",
   "devDependencies": {
+    "redux-devtools-extension": "^2.13.9",
     "webpack": "4.41.6",
     "webpack-cli": "3.3.11",
     "webpack-dev-server": "3.10.3"
@@ -17,7 +18,6 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "redux": "^4.1.0",
-    "redux-devtools-extension": "^2.13.8",
     "remote-redux-devtools": "^0.5.0"
   }
 }
